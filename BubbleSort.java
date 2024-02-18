@@ -48,4 +48,4 @@ public static void SortedArray(int arr[]){
 		SortedArray(arr);
 		
 	}
-}
+}//output : 12378
