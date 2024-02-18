@@ -49,4 +49,4 @@ public class Main
 		SortedArray(arr);
 	}
 	
-}//output : 12378
+}
