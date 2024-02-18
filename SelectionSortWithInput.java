@@ -44,10 +44,10 @@ public class Main
 		        }
 		    }
 		    //swap condition
-		    int temp = arr[smallest];
-            arr[smallest]=arr[i];
-            arr[i]=temp;
+		    	int temp = arr[smallest];
+            		arr[smallest]=arr[i];
+           		arr[i]=temp;
 		}
 		SortedArray(arr);
 	}
-}
+}//output : 12378
